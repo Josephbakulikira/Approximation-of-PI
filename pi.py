@@ -1,3 +1,7 @@
+"""
+Subscribe to my youtube channel: https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA
+"""
+
 import pygame 
 import random 
 import math
